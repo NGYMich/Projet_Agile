@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Livre
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Livre\ ici.\r\n\r\n\ @author\ Laye\ Kemo\ DIARSO\ -\ Michel\ NGUYEN\r\n\ @version\ 28/04/2020\r\n
+comment1.params=
+comment1.target=Livre()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Livre\r\n
+comment10.params=prix
+comment10.target=void\ setPrix(int)
+comment2.params=promotion
+comment2.target=void\ promotion(double)
+comment2.text=\r\n\ M\u00E9thode\ qui\ calcule\ le\ nouveau\ prix\ d'un\ livre\ \u00E0\ partir\ d'une\ promotion\r\n\ @param\ \ promotion\ le\ pourcentage\ de\ la\ promotion\ (ex\ 0.3)\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=nbExemplairesVendus
+comment4.target=int\ vente(int)
+comment5.params=auteur
+comment5.target=void\ setAuteur(Auteur)
+comment6.params=
+comment6.target=Auteur\ getAuteur()
+comment7.params=
+comment7.target=java.lang.String\ getTitre()
+comment7.text=\ Getters\ &\ setters\r\n\ \r\n
+comment8.params=titre
+comment8.target=void\ setTitre(java.lang.String)
+comment9.params=
+comment9.target=double\ getPrix()
+numComments=11

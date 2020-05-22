@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Auteur
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Auteur\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=Auteur()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Auteur\r\n
+comment2.params=nbExemplairesVendus
+comment2.target=int\ vente(int)
+comment3.params=
+comment3.target=java.lang.String\ getNom()
+comment4.params=nom
+comment4.target=void\ setNom(java.lang.String)
+numComments=5
